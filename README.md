@@ -13,8 +13,8 @@
 
 ## Запуск программы
 Для запуска кода необходимо ввести: 
-1) ```VK_ID``` - ID пользователя ВК
-2) ```YD_token``` - токен из [Полигона](https://yandex.ru/dev/disk/poligon/)
+- ```VK_ID``` - ID пользователя ВК
+- ```YD_token``` - токен из [Полигона](https://yandex.ru/dev/disk/poligon/)
 
 ```python
 # VK_ID - ID пользователя в ВК

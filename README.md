@@ -8,8 +8,8 @@
 Проект выполнен на Python 3.12.1 в Visual Studio Code (64-bit, Windows 10). Код для запуска API расположен в файле API.py.
 
 Перед запуском кода удостоверьтесь, что:
-1. завели проект в Visual Studio Code или другом IDE
-2. в папке с проектом размещен json файл client_secrets.json (в случае, если необходимо поработать с API Google Drive)
+- завели проект в Visual Studio Code или другом IDE
+- в папке с проектом размещен json файл client_secrets.json (в случае необходимости работы с API Google Drive)
 
 ## Запуск программы
 Для запуска кода необходимо ввести: 
